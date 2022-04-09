@@ -1,1 +1,1 @@
-# Diamond Pricing Model
+# MachineGeeks

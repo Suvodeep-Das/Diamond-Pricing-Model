@@ -1,1 +1,1 @@
-# Diamond-Pricing-Model
+# Diamond Pricing Model
